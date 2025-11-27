@@ -1,0 +1,8 @@
+package chapter02;
+
+public class Branch02{
+
+public Branch02(){
+    System.out.println(x: "네이버 브렌치에서 작업");
+    }
+}
